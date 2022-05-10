@@ -11,10 +11,11 @@
 
 
 <h3>these are some of the computer languages that I have the most mastery of:</h3>
-<p float="left">
-<img border="0" alt="Python" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="64" height="64">
-<img border="0" alt="Java" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="64" height="64">
-<img border="0" alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="64" height="64">
+![Descrição adicional opcional](https://img.shields.io/badge/-Java-8080ff?logo=java&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Python-8080ff?logo=python&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-C-8080ff?logo=C&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-8080ff?logo=JavaScript&logoColor=ffffff&style=flat)
+
 </p>
 <p>Python - Java - C</o>
 
