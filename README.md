@@ -19,6 +19,11 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-Atom-ff0000?logo=Atom&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ff0000?logo=Linux&logoColor=ffffff&style=flat)
 
+![Descrição adicional opcional](https://img.shields.io/badge/-Photoshop-ff0000?logo=AdobePhotoshop&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Unity-ff0000?logo=Unity&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Wordpress-ff0000?logo=Wordpress&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Gimp-ff0000?logo=Gimp&logoColor=ffffff&style=flat)
+
 
 <h3> But I am always learning new languages and technologies. </h3>
 
