@@ -8,9 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Python-2415d7?logo=python&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Java-ff8000?logo=java&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ffffff?logo=linux&logoColor=000000&style=flat)
 
 
 <h3>these are some of the computer languages that I have the most mastery of:</h3>
