@@ -15,7 +15,7 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-8080ff?logo=JavaScript&logoColor=ffffff&style=flat)
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Git-ff0000?logo=Git&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Visual Studio Code-ff0000?logo=VisualStudioCode&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-VisualStudioCode-ff0000?logo=VisualStudioCode&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Atom-ff0000?logo=Atom&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ff0000?logo=Linux&logoColor=ffffff&style=flat)
 
