@@ -1,6 +1,6 @@
 
 <h1>Hello World!</h1>
-![](https://img.shields.io/badge/-Python-2415d7?logo=python&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Python-000000?logo=Python&logoColor=000000&style=flat)
 <h2>It is my GitHub</h2>
 <p>I study Computer Science (teacher  graduation) at <a href = http://www.ufrpe.br/br/content/licenciatura-em-computa%C3%A7%C3%A3o>Universidade Federal Rural de Pernambuco</a>.</p>
 <p>I love learning diverse subjects, but computing, game design, data science and cyberculture are my passion.</p>
