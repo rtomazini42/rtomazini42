@@ -14,8 +14,6 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-C-8080ff?logo=C&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-8080ff?logo=JavaScript&logoColor=ffffff&style=flat)
 
-</p>
-<p>Python - Java - C</o>
 
 
 <h3>And here are some software that I know how to work with: </h3>
