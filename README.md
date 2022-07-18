@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Java-8080ff?logo=java&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Java-1E90FF?logo=Eclipse IDE&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Python-8080ff?logo=python&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-C-8080ff?logo=C&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-8080ff?logo=JavaScript&logoColor=ffffff&style=flat)
