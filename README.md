@@ -6,7 +6,7 @@
 
 ![Tomazini's github stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Java-1E90FF?logo=EclipseIDE&logoColor=ffffff&style=flat)
