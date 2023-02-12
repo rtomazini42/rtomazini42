@@ -4,6 +4,8 @@
 <p>I study Computer Science (teacher  graduation) at <a href = http://www.ufrpe.br/br/content/licenciatura-em-computa%C3%A7%C3%A3o>Universidade Federal Rural de Pernambuco</a>.</p>
 <p>I love learning diverse subjects, but computing, game design, data science and cyberculture are my passion.</p>
 
+![logo](https://rtomazini42.github.io/assets/icons/logo.png)
+
 ![Tomazini's github stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
