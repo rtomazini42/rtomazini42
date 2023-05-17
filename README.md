@@ -18,10 +18,11 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-Python-8080ff?logo=python&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-C-8080ff?logo=C&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-8080ff?logo=JavaScript&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Pascal-000000?logo=prettier&logoColor=ffffff&style=flat)
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Git-ff0000?logo=Git&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-VisualStudioCode-ff0000?logo=VisualStudioCode&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Atom-ff0000?logo=Atom&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Delphi-ff1f1f?logo=delphi&logoColor=e9feff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ff0000?logo=Linux&logoColor=ffffff&style=flat)
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Photoshop-ff0000?logo=AdobePhotoshop&logoColor=ffffff&style=flat)
