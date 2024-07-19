@@ -1,6 +1,6 @@
 
 <h1>Hello World!</h1>
-<img src="https://rtomazini42.github.io/assets/NovosIcons/Logo_color.png" alt= "logo" width="128" height="128">
+
 
 <h2>It is my GitHub</h2>
 <p>I study Computer Science (teacher  graduation) at <a href = http://www.ufrpe.br/br/content/licenciatura-em-computa%C3%A7%C3%A3o>Universidade Federal Rural de Pernambuco</a>.</p>
