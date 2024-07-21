@@ -41,9 +41,9 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-Inkscape-3a1b00?logo=inkscape&logoColor=ffffff&style=flat)
 
 
-![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/_cover1.png)
+![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1.png)
 
-![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/_cover2.png)
+![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2.png)
 
 
 
