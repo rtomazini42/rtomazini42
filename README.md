@@ -53,3 +53,6 @@
 <a href="mailto:renantomazini@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" /></code>
 </a>
+
+
+![cover]([http://url/to/img.png](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/coverLCUFRPE.png))
