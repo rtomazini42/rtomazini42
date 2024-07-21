@@ -48,8 +48,8 @@ I love learning diverse subjects, but computing, game design, data science, and 
 ### But I am always learning new languages and technologies.
 
 ### You can find me at:
-[![LinkedIn](https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png)](https://www.linkedin.com/in/renan-tomazini/)
-[![Email](https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png)](mailto:renantomazini@gmail.com)
+[![LinkedIn]](https://www.linkedin.com/in/renan-tomazini/)
+[![Email]](mailto:renantomazini@gmail.com)
 
 ---
 
@@ -104,8 +104,8 @@ Adoro aprender assuntos diversos, mas computação, design de jogos, ciência de
 ### Mas estou sempre aprendendo novas linguagens e tecnologias.
 
 ### Você pode me encontrar em:
-[![LinkedIn](https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png)](https://www.linkedin.com/in/renan-tomazini/)
-[![Email](https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png)](mailto:renantomazini@gmail.com)
+[![LinkedIn]](https://www.linkedin.com/in/renan-tomazini/)
+[![Email]](mailto:renantomazini@gmail.com)
 
 ---
 
