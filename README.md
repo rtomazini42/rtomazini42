@@ -38,12 +38,12 @@ I love learning diverse subjects, but computing, game design, data science, and 
 ![Image 1](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1_en.png)
 ![Image 2](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2_en.png)
 
-
+### Github Statistics 
 ![Tomazini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=blue_navy&hide_border=true&hide=stars&hide_title=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=blue_navy&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
-### But I am always learning new languages and technologies.
+### I am always learning new languages and technologies.
 
 ### You can find me at:
 <a href="https://www.linkedin.com/in/renan-tomazini/">
