@@ -14,21 +14,32 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Java-1E90FF?logo=EclipseIDE&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Python-8080ff?logo=python&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-C-8080ff?logo=C&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-8080ff?logo=JavaScript&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Pascal-000000?logo=prettier&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Python-0a0a0a?logo=python&logoColor=48cae4&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Java-0a0a0a?logo=openjdk&logoColor=48cae4&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-C-0a0a0a?logo=C&logoColor=48cae4&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-0a0a0a?logo=javascript&logoColor=48cae4&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Delphi_Pascal-0a0a0a?logo=delphi&logoColor=48cae4&style=flat)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Git-ff0000?logo=Git&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-VisualStudioCode-ff0000?logo=VisualStudioCode&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Delphi-ff1f1f?logo=delphi&logoColor=e9feff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ff0000?logo=Linux&logoColor=ffffff&style=flat)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Photoshop-ff0000?logo=AdobePhotoshop&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Unity-ff0000?logo=Unity&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Wordpress-ff0000?logo=Wordpress&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Gimp-ff0000?logo=Gimp&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Git-ff0000?logo=git&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-SQL-ff0000?logo=mysql&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-FireBase-ff0000?logo=firebase&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ff0000?logo=linux&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-ff0000?logo=popos&logoColor=ffffff&style=flat)
+
+![Descrição adicional opcional](https://img.shields.io/badge/-Godot-ff7b00?logo=godotengine&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Unity-ff7b00?logo=unity&logoColor=ffffff&style=flat)
+
+![Descrição adicional opcional](https://img.shields.io/badge/-Wordpress-07273d?logo=wordpress&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-AndroidStudio-07273d?logo=androidstudio&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-RStudio-07273d?logo=rstudioide&logoColor=ffffff&style=flat)
+
+![Descrição adicional opcional](https://img.shields.io/badge/-Photoshop-464544?logo=adobephotoshop&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Canva-464544?logo=canva&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Illustrator-464544?logo=adobeillustrator&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Gimp-464544?logo=gimp&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Inkscape-464544?logo=inkscape&logoColor=ffffff&style=flat)
+
 
 
 <h3> But I am always learning new languages and technologies. </h3>
