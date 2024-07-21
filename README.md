@@ -14,11 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Python-ff7b00?logo=python&logoColor=48cae4&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Java-ff7b00?logo=openjdk&logoColor=48cae4&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-C-ff7b00?logo=C&logoColor=48cae4&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-ff7b00?logo=javascript&logoColor=48cae4&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Delphi_Pascal-ff7b00?logo=delphi&logoColor=48cae4&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Python-ff7b00?logo=python&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Java-ff7b00?logo=openjdk&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-C-ff7b00?logo=C&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-JavaScript-ff7b00?logo=javascript&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Delphi_Pascal-ff7b00?logo=delphi&logoColor=ffffff&style=flat)
 
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Git-ff0000?logo=git&logoColor=ffffff&style=flat)
