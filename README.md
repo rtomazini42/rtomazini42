@@ -3,7 +3,7 @@
 
 
 <h2>It is my GitHub</h2>
-<p>I study Computer Science (teacher  graduation) at <a href = http://www.ufrpe.br/br/content/licenciatura-em-computa%C3%A7%C3%A3o>Universidade Federal Rural de Pernambuco</a>.</p>
+
 <p>I love learning diverse subjects, but computing, game design, data science and cyberculture are my passion.</p>
 
 
@@ -42,6 +42,7 @@
 
 
 ![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1.png)
+
 ![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2.png)
 
 
