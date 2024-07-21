@@ -55,4 +55,4 @@
 </a>
 
 
-![cover]([http://url/to/img.png](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/coverLCUFRPE.png))
+![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/coverLCUFRPE.png)
