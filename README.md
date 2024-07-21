@@ -6,14 +6,6 @@
 
 <p>I love learning diverse subjects, but computing, game design, data science and cyberculture are my passion.</p>
 
-
-
-
-![Tomazini's github stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
-
-
 ![Descrição adicional opcional](https://img.shields.io/badge/-Python-ff9933?logo=python&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Java-ff9933?logo=openjdk&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-C-ff9933?logo=C&logoColor=ffffff&style=flat)
@@ -45,6 +37,10 @@
 
 ![alt text](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2.png)
 
+
+![Tomazini's github stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 
 <h3> But I am always learning new languages and technologies. </h3>
