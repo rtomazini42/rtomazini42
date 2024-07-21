@@ -21,24 +21,24 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-Delphi_Pascal-ff7b00?logo=delphi&logoColor=ffffff&style=flat)
 
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Git-970000?logo=git&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-SQL-970000?logo=mysql&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-FireBase-970000?logo=firebase&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Linux-970000?logo=linux&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-970000?logo=popos&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Git-c75d00?logo=git&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-SQL-c75d00?logo=mysql&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-FireBase-c75d00?logo=firebase&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Linux-c75d00?logo=linux&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-c75d00?logo=popos&logoColor=ffffff&style=flat)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Godot-490000?logo=godotengine&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Unity-490000?logo=unity&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Godot-a34c00?logo=godotengine&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Unity-a34c00?logo=unity&logoColor=ffffff&style=flat)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Wordpress-07273d?logo=wordpress&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-AndroidStudio-07273d?logo=androidstudio&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-RStudio-07273d?logo=rstudioide&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Wordpress-5e2c00?logo=wordpress&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-AndroidStudio-5e2c00?logo=androidstudio&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-RStudio-5e2c00?logo=rstudioide&logoColor=ffffff&style=flat)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Photoshop-464544?logo=adobephotoshop&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Canva-464544?logo=canva&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Illustrator-464544?logo=adobeillustrator&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Gimp-464544?logo=gimp&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Inkscape-464544?logo=inkscape&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Photoshop-3a1b00?logo=adobephotoshop&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Canva-3a1b00?logo=canva&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Illustrator-3a1b00?logo=adobeillustrator&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Gimp-3a1b00?logo=gimp&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Inkscape-3a1b00?logo=inkscape&logoColor=ffffff&style=flat)
 
 
 
