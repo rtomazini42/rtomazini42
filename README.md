@@ -41,9 +41,9 @@ I love learning diverse subjects, but computing, game design, data science, and 
 ![Image 2](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2_en.png)
 
 
-![Tomazini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
+![Tomazini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=blue_navy&hide_border=true&hide=stars&hide_title=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=blue_navy&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 ### But I am always learning new languages and technologies.
 
@@ -102,9 +102,10 @@ Adoro aprender assuntos diversos, mas computação, design de jogos, ciência de
 ![Imagem 1](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1.png)
 ![Imagem 2](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2.png)
 
-![Estatísticas do GitHub do Tomazini](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
+![Tomazini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=blue_navy&hide_border=true&hide=stars&hide_title=true)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=material-palenight&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=blue_navy&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
+
 
 ### Mas estou sempre aprendendo novas linguagens e tecnologias.
 
