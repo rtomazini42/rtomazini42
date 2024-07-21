@@ -22,7 +22,7 @@
 
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Git-EFCF11?logo=git&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-sqlite-EFCF11?logo=mysql&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-SQL-EFCF11?logo=sqlite&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-FireBase-EFCF11?logo=firebase&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Linux-EFCF11?logo=linux&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-EFCF11?logo=popos&logoColor=ffffff&style=flat)
