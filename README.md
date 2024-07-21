@@ -36,8 +36,10 @@ I love learning diverse subjects, but computing, game design, data science, and 
 ![Gimp](https://img.shields.io/badge/-Gimp-3a1b00?logo=gimp&logoColor=ffffff&style=flat)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-3a1b00?logo=inkscape&logoColor=ffffff&style=flat)
 
-![Image 1](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1.png)
-![Image 2](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2.png)
+### Academic education
+![Image 1](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1_en.png)
+![Image 2](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2_en.png)
+
 
 ![Tomazini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=material-palenight&hide_border=true&hide=stars&hide_title=true)
 
@@ -90,6 +92,8 @@ Adoro aprender assuntos diversos, mas computação, design de jogos, ciência de
 ![Gimp](https://img.shields.io/badge/-Gimp-3a1b00?logo=gimp&logoColor=ffffff&style=flat)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-3a1b00?logo=inkscape&logoColor=ffffff&style=flat)
 
+
+### Formação acadêmica
 ![Imagem 1](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover1.png)
 ![Imagem 2](https://raw.githubusercontent.com/rtomazini42/rtomazini42/main/cover2.png)
 
