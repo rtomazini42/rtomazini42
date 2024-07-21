@@ -27,8 +27,8 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-Linux-970000?logo=linux&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-970000?logo=popos&logoColor=ffffff&style=flat)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Godot-090066?logo=godotengine&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Unity-090066?logo=unity&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Godot-490000?logo=godotengine&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Unity-490000?logo=unity&logoColor=ffffff&style=flat)
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Wordpress-07273d?logo=wordpress&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-AndroidStudio-07273d?logo=androidstudio&logoColor=ffffff&style=flat)
