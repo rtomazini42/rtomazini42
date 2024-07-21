@@ -21,11 +21,11 @@
 ![Descrição adicional opcional](https://img.shields.io/badge/-Delphi_Pascal-ff7b00?logo=delphi&logoColor=ffffff&style=flat)
 
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Git-ff0000?logo=git&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-SQL-ff0000?logo=mysql&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-FireBase-ff0000?logo=firebase&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Linux-ff0000?logo=linux&logoColor=ffffff&style=flat)
-![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-ff0000?logo=popos&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Git-970000?logo=git&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-SQL-970000?logo=mysql&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-FireBase-970000?logo=firebase&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Linux-970000?logo=linux&logoColor=ffffff&style=flat)
+![Descrição adicional opcional](https://img.shields.io/badge/-Pop!Os-970000?logo=popos&logoColor=ffffff&style=flat)
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Godot-020202?logo=godotengine&logoColor=ffffff&style=flat)
 ![Descrição adicional opcional](https://img.shields.io/badge/-Unity-020202?logo=unity&logoColor=ffffff&style=flat)
