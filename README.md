@@ -41,7 +41,7 @@ I love learning diverse subjects, but computing, game design, data science, and 
 ### Github Statistics 
 ![Tomazini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomazini42&count_private=false&show_icons=true&theme=blue_navy&hide_border=true&hide=stars&hide_title=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=html,css,jupyter%20notebook&theme=blue_navy&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomazini42&hide=javascript,html,css,jupyter%20notebook&theme=blue_navy&hide_border=true)](https://github.com/rtomazini42/github-readme-stats)
 
 ### I am always learning new languages and technologies.
 
